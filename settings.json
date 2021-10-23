@@ -1,0 +1,12 @@
+{
+  "token": "ODM5OTg0NjM5MDg2NDI4MTYy.YJRmqA.QqXMMSmXNSeDHeBcPDqYOlC7Ho8",
+  "prefix" : "+",
+  "owner" : ["","",""],
+  "clientid" : "770590287826649093",
+  "clientsecret" : "JT2jjaXI7o-qG34nbeI-7G00sOlrt-zR",
+  "clientcallback" : "https://glass-beneficial-seatbelt.glitch.me/callback",
+  "mongoURL" : "mongodb+srv://berat:1422@cluster0.daf1n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "serverID": "724605348010262528",
+  "footer": "GLOBAL FOOTER",
+  "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
